@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @scabro-bot
-- 👀 I’m interested in ... thech
+- 👀 I’m interested in ... tech
 - 🌱 I’m currently learning ... root,app.etx
 - 💞️ I’m looking to collaborate on ...nothing
 - 📫 How to reach me ... irisscabro@gmail.com
